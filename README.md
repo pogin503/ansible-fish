@@ -5,7 +5,7 @@
 [![Debian](https://img.shields.io/badge/os-debian-red.svg?style=flat-square)](#)
 [![Ubuntu](https://img.shields.io/badge/os-ubuntu-orange.svg?style=flat-square)](#)
 
-> fish is a smart and user-friendly command line shell for OS X, Linux, and the rest of the family.
+> fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family.
 
 This role installs fish shell. Optionally change the shell for a number of users. This role uses opensuse repositories, the repository key is **not** added, for security.
 
